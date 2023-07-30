@@ -1,0 +1,10 @@
+/bin/**
+/etc/**
+/include/**
+/lib/**
+/pyvenv.cfg
+/share
+/src/te/fastpitch/best_model.pth
+/src/te/fastpitch/speakers.pth
+/src/te/hifigan/models/v1/te/fastpitch/speakers.pth
+/src/te/hifigan/best_model.pth
